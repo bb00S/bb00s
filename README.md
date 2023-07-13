@@ -1,4 +1,5 @@
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,c,py,java,cpp,mysql)](https://skills.thijs.gg) 
+(https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bb00s&layout=compact)](https://github.com/bb00s)
 <!--
