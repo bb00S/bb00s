@@ -1,5 +1,5 @@
 # 🚀 SKILLS
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,c,py,java,cpp,mysql)](https://skills.thijs.gg) 
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,c,cs,cpp,py,java,mysql)](https://skills.thijs.gg) 
 ## 📚 Frameworks
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
