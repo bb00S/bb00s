@@ -1,4 +1,4 @@
-### Hi there 👋
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg) 
 
 <!--
 **bb00S/bb00s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
