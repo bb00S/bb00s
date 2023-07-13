@@ -2,6 +2,7 @@
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bb00s&icons=true&theme=transparent)](https://github.com/bb00s)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bb00s&show_icons=true&theme=transparent)
 <!--
 **bb00S/bb00s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
