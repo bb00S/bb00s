@@ -1,6 +1,6 @@
-<img src=”https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”> 
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,c,py,java,cpp,mysql)](https://skills.thijs.gg) 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bb00s&layout=compact)](https://github.com/bb00s)
 <!--
 **bb00S/bb00s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
